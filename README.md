@@ -16,7 +16,7 @@
 </a>
 <br />
 
-I'm a computer science student who is passionate about writing code, solving problems, and building WebApp.<br>
+I'm a computer science student who is passionate about writing code, solving problems, and working on frontend.<br>
 
 
 
