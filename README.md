@@ -20,9 +20,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
-- 🔭 I’m currently a CS student at SJBIT.
+- 🔭 CS Grad.
 - 🌱 I’m currently learning JavaScript, ReactJS.
-- ⚡ Languages: Java, HTML, CSS, JavaScript.
+- ⚡ JavaScript | React | Frontend
 - 😄 Fun fact: I love sports.
 
 
