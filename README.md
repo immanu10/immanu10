@@ -11,6 +11,9 @@
 <a href="https://twitter.com/immanu_10">
   <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a>
+<a href="https://immanu10.hashnode.dev/">
+  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.16.0/icons/hashnode.svg" />
+</a>
 <br />
 
 I'm a computer science student who is passionate about writing code, solving problems, and working on frontend.<br>
