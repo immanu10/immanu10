@@ -4,14 +4,17 @@
 Coding for survival, with a hint of passion on the side.
 <br/>
 
- ⚡ JavaScript | React | Next.js | Frontend
-
-<a href="https://www.linkedin.com/in/manoj-kumar-m-76ba751b0/">
-  <img align="left" alt="Manoj's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ ⚡ JavaScript | React | Next.js | Frontend | Node.js
+ 
+<a href="https://www.linkedin.com/in/immanu10">
+  <img align="left" alt="Manoj's Linkdein" width="18px" src="https://cdn.simpleicons.org/linkedin/1f6fbe" />
 </a>
 <a href="https://github.com/immanu10">
-  <img align="left" alt="Manoj's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Manoj's Github" width="18px" src="https://cdn.simpleicons.org/github/1f6fbe" />
 </a>
-<a href="https://twitter.com/immanu_10">
-  <img align="left" alt="Manoj's Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+<a href="https://twitter.com/immanu10_">
+  <img align="left" alt="Manoj's Twitter" width="18px" src="https://cdn.simpleicons.org/twitter/1f6fbe" />
+</a>
+<a href="https://www.instagram.com/immanu10/">
+  <img align="left" alt="Manoj's Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/1f6fbe" />
 </a>
