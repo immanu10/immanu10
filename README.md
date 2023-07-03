@@ -1,6 +1,5 @@
 ## Hello there! I'm Manoj 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=immanu10&show_icons=true"/>](https://github.com/immanu10)
 Coding for survival, with a hint of passion on the side.
 <br/>
 
