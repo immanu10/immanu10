@@ -1,6 +1,6 @@
 ## Hello there! I'm Manoj 👋
 
-Coding for survival, with a hint of passion on the side.
+Coding for survival with a hint of passion on the side.
 <br/>
 
  ⚡ JavaScript | React | Next.js | Frontend | Node.js
