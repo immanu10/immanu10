@@ -11,9 +11,3 @@ Coding for survival with a hint of passion on the side.
 <a href="https://github.com/immanu10">
   <img align="left" alt="Manoj's Github" width="18px" src="https://cdn.simpleicons.org/github/1f6fbe" />
 </a>
-<a href="https://twitter.com/immanu10_">
-  <img align="left" alt="Manoj's Twitter" width="18px" src="https://cdn.simpleicons.org/twitter/1f6fbe" />
-</a>
-<a href="https://www.instagram.com/immanu10/">
-  <img align="left" alt="Manoj's Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/1f6fbe" />
-</a>
